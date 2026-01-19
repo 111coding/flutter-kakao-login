@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960994848633",
+    "project_id": "kakao-login-sparta9",
+    "storage_bucket": "kakao-login-sparta9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960994848633:android:ce847e69b11d495984c9a8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kakao_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfKJSHic71AxshhR45FQBh1k3hfED1q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
