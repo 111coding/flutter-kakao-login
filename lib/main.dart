@@ -84,6 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
       credential,
     );
     print(await userCred.user?.getIdToken());
+    // 페이지 이동! 
 
     setState(() {
       // This call to setState tells the Flutter framework that something has
